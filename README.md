@@ -8,11 +8,11 @@
 
 ## 💼 Habilidades Principais e Infraestrutura TI
 ### 🔍 Análise de Sistemas
-### ☁️ Cloud Computing (AWS/Azure)
-### 🔌 Hardware e Software
-### 🐧 Administração Linux
 ### 💻 Front-end (HTML/CSS/JS)
 ### 🐍 Python (Automação)
+### ☁️ Cloud Computing (AWS/Azure)
+### 🐧 Administração Linux
+### 🔌 Hardware e Software
 
 ## 📊 Estatísticas do GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macedocedo&layout=compact&theme=dracula)
