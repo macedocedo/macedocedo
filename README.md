@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, eu sou [Mateus Macedo]! 👋
 
 💻 Desenvolvedor(a) Front-end/Back-end/Full-Stack  
-🌍 Brasileiro(a) | 🏡 [Cidade]  
+🌍 Brasileiro | 🏡 [Campinas-SP]  
 📚 Estudando [Tecnologias]  
-🎯 Objetivo: [Seu objetivo profissional]  
 
 ### 🛠 Tech Stack
 
@@ -16,8 +15,8 @@
 
 ### 📈 Minhas Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?macedocedo&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macedocedo&layout=compact&theme=dracula)
 
 
 ### 📫 Como me encontrar
