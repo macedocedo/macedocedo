@@ -16,6 +16,12 @@
 🌍 **Brasileiro** | 🏡 **Campinas-SP**  
 📚 **Estudando** Automação (n8n), Solução de Problemas & Novas Tecnologias  
 
+🔍 Analista de Sistemas
+☁️ Cloud (AWS/Azure)
+🐧 Linux
+💻 Front-end (HTML/CSS/JS)
+🐍 Python (Automação)
+
 ### 📈 Minhas Estatísticas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macedocedo&layout=compact&theme=dracula)
