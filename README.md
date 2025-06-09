@@ -25,8 +25,3 @@
 ### 📈 Minhas Estatísticas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macedocedo&layout=compact&theme=dracula)
-
-
-### 📫 Como me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/seu-perfil)
