@@ -1,8 +1,8 @@
 # Olá, eu sou Mateus Macedo! 👋
 
-## 🚀 Sobre Mim
+## 🤵 Sobre Mim
 - 💻 **Desenvolvedor Full-Stack | Analista de Sistemas**  
-- 🌍 **Brasileiro** | 🏡 **Campinas-SP**  | 💻 ** 27 Anos **
+- 🌍 **Brasileiro** | 🏡 **Campinas-SP**  | 🤵 ** 27 Anos **
 - 🖥️ **Especialização:** Infraestrutura TI  | Sistemas
 - 📚 **Estudando: |  Automação (n8n) ** 
 
