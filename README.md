@@ -25,3 +25,21 @@
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white)
 ![n8n](https://img.shields.io/badge/-AUTOMAÇÃO(n8n)-00ADEF?logo=n8n&logoColor=white)
+
+# 👋 Olá, eu sou Mateus Macedo! 
+
+**💻 Desenvolvedor Full-Stack | Analista de Sistemas**  
+📍 **Campinas-SP, Brasil**  
+📚 **Foco Atual:** Automação (n8n), Solução de Problemas & Novas Tecnologias  
+
+---
+
+## 🚀 Sobre Mim
+
+```python
+class Desenvolvedor:
+    def __init__(self):
+        self.nome = "Mateus Macedo"
+        self.area = "Full-Stack | Análise de Sistemas"
+        self.habilidades = ["Cloud", "Automação", "Python", "Web"]
+        self.motivacao = "Resolver problemas com tecnologia criativa"
