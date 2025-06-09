@@ -15,7 +15,7 @@
 
 ### 📈 Minhas Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?macedocedo&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=macedocedo&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macedocedo&layout=compact&theme=dracula)
 
 
