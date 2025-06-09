@@ -12,7 +12,7 @@
 ### 💻 Front-end (HTML/CSS/JS)
 ### 🐍 Python (Automação)
 ### ☁️ Cloud Computing (AWS/Azure)
-### 🐧 Administração Linux
+### 🐧 Administração Linux 
 ### 🔌 Hardware e Software
 
 ## 📊 Estatísticas do GitHub
