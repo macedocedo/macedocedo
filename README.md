@@ -1,7 +1,7 @@
 # Olá, eu sou Mateus Macedo! 👋
 
 💻 **Desenvolvedor(a) Full-Stack | Analista de Sistemas**  
-🌍 **Brasileiro** | 🏡 **Campinas-SP**  
+🌍 **Brasileiro** | 🏡 **Campinas-SP**  | **Infraestutura TI""
 📚 **Estudando** Automação (n8n), Solução de Problemas & Novas Tecnologias  
 
 🔍 **Analista de Sistemas**
