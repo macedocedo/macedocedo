@@ -16,6 +16,9 @@
 ### 🐧 Administração Linux 
 ### 🔌 Hardware e Software
 
+## 📊 Estatísticas do GitHub
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macedocedo&layout=compact&theme=dracula)
+
 ## 🛠 Tecnologias
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
@@ -27,5 +30,4 @@
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white)
 ![n8n](https://img.shields.io/badge/-AUTOMAÇÃO(n8n)-00ADEF?logo=n8n&logoColor=white)
 
-## 📊 Estatísticas do GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macedocedo&layout=compact&theme=dracula)
+
