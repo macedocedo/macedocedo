@@ -9,6 +9,7 @@
 ## 💼 Habilidades Principais e Infraestrutura TI
 ### 🔍 Análise de Sistemas
 ### ☁️ Cloud Computing (AWS/Azure)
+### 🔌 Hardware e Software
 ### 🐧 Administração Linux
 ### 💻 Front-end (HTML/CSS/JS)
 ### 🐍 Python (Automação)
