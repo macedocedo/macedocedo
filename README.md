@@ -6,7 +6,7 @@
 - 🖥️ **Especialização:** Infraestrutura TI  | Sistemas
 - 📚 **Estudando: |  Automação (n8n) ** 
 
-## 💼 Habilidades Principais
+## 💼 Habilidades Principais e Infraestrutura TI
 ### 🔍 Análise de Sistemas
 ### ☁️ Cloud Computing (AWS/Azure)
 ### 🐧 Administração Linux
