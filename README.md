@@ -9,7 +9,7 @@
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white)
 ![n8n](https://img.shields.io/badge/-AUTOMAÇÃO(n8n)-00ADEF?logo=n8n&logoColor=white)
-
+[Site da empresa] (não clicável): `(https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)`
 # Olá, eu sou Mateus Macedo! 👋
 
 💻 **Desenvolvedor(a) Full-Stack | Analista de Sistemas**  
