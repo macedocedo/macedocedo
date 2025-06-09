@@ -16,11 +16,11 @@
 🌍 **Brasileiro** | 🏡 **Campinas-SP**  
 📚 **Estudando** Automação (n8n), Solução de Problemas & Novas Tecnologias  
 
-🔍 Analista de Sistemas
-☁️ Cloud (AWS/Azure)
-🐧 Linux
-💻 Front-end (HTML/CSS/JS)
-🐍 Python (Automação)
+🔍 **Analista de Sistemas**
+☁️ **Cloud (AWS/Azure)**
+🐧 **Linux**
+💻 **Front-end (HTML/CSS/JS)**
+🐍 **Python (Automação)**
 
 ### 📈 Minhas Estatísticas
 
