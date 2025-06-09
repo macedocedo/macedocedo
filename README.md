@@ -1,11 +1,3 @@
-## Hi there 👋
-
-# Olá, eu sou [Mateus Macedo]! 👋
-
-💻 Desenvolvedor(a) Front-end/Back-end/Full-Stack  
-🌍 Brasileiro | 🏡 [Campinas-SP]  
-📚 Estudando [Tecnologias]  
-
 ### 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -17,6 +9,13 @@
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white)
 ![n8n](https://img.shields.io/badge/-AUTOMAÇÃO(n8n)-00ADEF?logo=n8n&logoColor=white)
+
+# Olá, eu sou [Mateus Macedo]! 👋
+
+💻 Desenvolvedor(a) Front-end/Back-end/Full-Stack  
+🌍 Brasileiro | 🏡 [Campinas-SP]  
+📚 Estudando [Tecnologias]  
+
 
 
 ### 📈 Minhas Estatísticas
