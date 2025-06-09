@@ -10,13 +10,11 @@
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white)
 ![n8n](https://img.shields.io/badge/-AUTOMAÇÃO(n8n)-00ADEF?logo=n8n&logoColor=white)
 
-# Olá, eu sou [Mateus Macedo]! 👋
+# Olá, eu sou Mateus Macedo! 👋
 
-💻 Desenvolvedor(a) Front-end/Back-end/Full-Stack  
-🌍 Brasileiro | 🏡 [Campinas-SP]  
-📚 Estudando [Tecnologias]  
-
-
+💻 **Desenvolvedor(a) Full-Stack | Analista de Sistemas**  
+🌍 **Brasileiro** | 🏡 **Campinas-SP**  
+📚 **Estudando** Automação (n8n), Solução de Problemas & Novas Tecnologias  
 
 ### 📈 Minhas Estatísticas
 
@@ -27,3 +25,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/seu-perfil)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://twitter.com/seu-perfil)
+
+<img src="URL-DA-BADGE" alt="Python" /> <img src="URL-DA-BADGE" alt="JavaScript" />
+![Feito com Python](https://img.shields.io/badge/-Feito_com_Python-3776AB?logo=python)
