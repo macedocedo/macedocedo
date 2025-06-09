@@ -6,7 +6,7 @@
 - 🖥️ **Especialização:** Infraestrutura TI | Sistemas Logísticos  
 - 📚 **Estudando:** Automação (n8n) 
 
-## 💼 Habilidades Principais e Infraestrutura TI
+## 💼 Habilidades Principais:
 ### 🧠 Análise de Sistemas (Totvs/Zendesk/GFE/Progress)
 ### 📊 Análise de dados (Excel/PowerBi/PowerQuery)
 ### 🗃️ Desenvolvedor Lowcode (PowerApps/PowerAutomate) 
