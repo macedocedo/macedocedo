@@ -4,10 +4,9 @@
 - 💻 **Desenvolvedor Full-Stack | Analista de Sistemas**  
 - 🌍 **Brasileiro** | 🏡 **Campinas-SP**  
 - 🖥️ **Especialização:** Infraestrutura TI  
-- 📚 **Estudando:** 
+- 📚 **Estudando: |  Solução de Problemas** 
   - Automação (n8n) 
-  - Solução de Problemas 
-  - Novas Tecnologias
+
 
 ## 💼 Habilidades Principais
 ### 🔍 Análise de Sistemas
