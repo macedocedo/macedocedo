@@ -6,27 +6,6 @@
 - 🖥️ **Especialização:** Infraestrutura TI | Sistemas Logísticos  
 - 📚 **Estudando:** Automação (n8n) 
 
-## 🎓 Formação Acadêmica
-<div align="center">
-  
-| 🏫 Instituição          | 📚 Curso                     | 📅 Período    |
-|-------------------------|-----------------------------|--------------|
-| Faculdade Anhanguera    | Análise e Desenvolvimento de Sistemas | 2022 - 2024 |
-| ETEC                   | Técnico em Informática       | 2015 - 2016  |
-
-</div>
-
-## 📜 Certificações
-<div align="center">
-
-| 🏆 Certificação         | 🏢 Emissor                   | 📅 Ano       |
-|-------------------------|-----------------------------|--------------|
-| AWS Cloud Practitioner  | Amazon Web Services         | 2023         |
-| Microsoft Power Platform Fundamentals | Microsoft | 2022         |
-| ITIL Foundation         | AXELOS                      | 2021         |
-
-</div>
-
 ## 💼 Habilidades Principais e Infraestrutura TI
 ### 🧠 Análise de Sistemas (Totvs/Zendesk/GFE/Progress)
 ### 📊 Análise de dados (Excel/PowerBi/PowerQuery)
