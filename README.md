@@ -3,7 +3,7 @@
 ## 🤵 Sobre Mim
 - 💻 **Desenvolvedor Full-Stack | Analista de Sistemas**  
 - 🌍 **Brasileiro** | 🏡 **Campinas-SP**  | 🤵 ** 27 Anos **
-- 🖥️ **Especialização:** Infraestrutura TI  | Sistemas
+- 🖥️ **Especialização:** Infraestrutura TI  | Sistemas | Logística
 - 📚 **Estudando: |  Automação (n8n) ** 
 
 ## 💼 Habilidades Principais e Infraestrutura TI
