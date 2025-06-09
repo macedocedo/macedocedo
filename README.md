@@ -8,7 +8,8 @@
 
 ## 💼 Habilidades Principais e Infraestrutura TI
 ### 🧠 Análise de Sistemas (Totvs/Zendesk/GFE/Progress)
-### 📊 Análise de dados (Excel/PowerBi/Powerquery)
+### 📊 Análise de dados (Excel/PowerBi/PowerQuery)
+### 🗃️ Desenvolvedor Lowcode (PowerApps/PowerAutomate) 
 ### 💻 Front-end (HTML/CSS/JS)
 ### 🐍 Python (Automação)
 ### ☁️ Cloud Computing (AWS/Azure)
