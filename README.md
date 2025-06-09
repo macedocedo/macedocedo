@@ -7,7 +7,8 @@
 - 📚 **Estudando: |  Automação (n8n) ** 
 
 ## 💼 Habilidades Principais e Infraestrutura TI
-### 🧠 Análise de Sistemas (Totvs/GFE/Progress)
+### 🧠 Análise de Sistemas (Totvs/Zendesk/GFE/Progress)
+### 📊 Análise de dados (Excel/PowerBi/Powerquery)
 ### 💻 Front-end (HTML/CSS/JS)
 ### 🐍 Python (Automação)
 ### ☁️ Cloud Computing (AWS/Azure)
