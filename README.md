@@ -1,20 +1,20 @@
 # Olá, eu sou Mateus Macedo! 👋
 
 ## 🧑 Sobre Mim
-- 💻 **Desenvolvedor Full-Stack | Analista de Sistemas**  
+- 💻 **Desenvolvedor | Analista de Sistemas**  
 - 🌍 **Brasileiro** | 🏡 **Campinas-SP**  | 🤵 **27 Anos**
-- 🖥️ **Especialização:** Infraestrutura TI | Sistemas Logísticos  
+- 🖥️ **Conhecimentos:** **Infraestrutura TI** | **Sistemas Logísticos**  | **Totvs ERP** | **Criação de front-end**
 - 📚 **Estudando:** Automação (n8n) 
 
 ## 💼 Habilidades Principais:
-### 🧠 Análise de Sistemas (Totvs/Zendesk/GFE/Progress)
-### 📊 Análise de dados (Excel/PowerBi/PowerQuery)
-### 🗃️ Desenvolvedor Lowcode (PowerApps/PowerAutomate) 
-### 💻 Front-end (HTML/CSS/JS)
+### 🧠 Análise de Sistemas (Totvs ERP / Zendesk CRM / Progress)
+### 📊 Análise de dados (Excel / PowerBi / PowerQuery)
+### 🗃️ Desenvolvedor Lowcode (PowerApps / PowerAutomate) 
+### 💻 Front-end (HTML / CSS / JS)
 ### 🐍 Python (Automação)
-### ☁️ Cloud Computing (AWS/Azure)
+### ☁️ Cloud Computing (AWS / Azure)
 ### 🐧 Administração Linux 
-### 🔌 Infraestrutura (Hardware/Software)
+### 🔌 Infraestrutura (Hardware / Software)
 
 ## 📊 Estatísticas do GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macedocedo&layout=compact&theme=dracula)
